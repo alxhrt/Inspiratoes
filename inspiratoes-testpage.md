@@ -30,7 +30,7 @@ page_sections:
     image: "/uploads/2018/12/09/F73AB51F-BC92-4CFD-BB7E-80F87944054C.jpeg"
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2018/12/09/thumb_512_thumb_512_thumb_512_drone-photo-1.png"
+  image: "/uploads/2018/12/09/EBFD7AF9-A20D-4989-8397-1A612E033F67.png"
   caption: 'Caption Time! '
 - template: signup-bar
   block: cta-bar
