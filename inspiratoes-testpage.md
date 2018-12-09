@@ -12,9 +12,6 @@ page_sections:
     url: http://fb.com/alxhrt
     button_text: Contact me
   logo: "/uploads/2018/12/09/Hintergrund.png"
-- template: simple-header
-  block: header-3
-  logo: "/uploads/2018/12/09/thumb_512_thumb_512_drone-photo.png"
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2018/12/09/86A1BA18-4BD1-4229-9227-A6D66908E6D6.jpeg"
