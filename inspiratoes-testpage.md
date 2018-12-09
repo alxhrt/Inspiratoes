@@ -18,6 +18,21 @@ page_sections:
   block: text-1
   headline: 'This is it! I know it! '
   content: "<h1>Content is <strong>king</strong>. Always.</h1>"
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Hallo Welt! Wie toll ist das denn?!
+  content: 'Ich gehe fischen. Ich fische Komplimente! '
+  media:
+    image: "/uploads/2018/12/09/A16E1F2F-0AF1-4B05-B3FA-38AE5C379942.jpeg"
+    alt_text: Etstesdgsdgsdgdsfg
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: Neue Headline! Der Wahnsinn!
+  content: 'Oh mein Gott, wie das hier abgeht! '
+  media:
+    image: "/uploads/2018/12/09/61575252-C53C-46FF-8433-72D9E6D94AAD.jpeg"
 - template: 3-column-text
   block: three-column-1
   col_1:
@@ -42,21 +57,6 @@ page_sections:
       amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
       labore et dolore magna aliquyam erat.
     headline: Skill three
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: Hallo Welt! Wie toll ist das denn?!
-  content: 'Ich gehe fischen. Ich fische Komplimente! '
-  media:
-    image: "/uploads/2018/12/09/A16E1F2F-0AF1-4B05-B3FA-38AE5C379942.jpeg"
-    alt_text: Etstesdgsdgsdgdsfg
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
-  headline: Neue Headline! Der Wahnsinn!
-  content: 'Oh mein Gott, wie das hier abgeht! '
-  media:
-    image: "/uploads/2018/12/09/61575252-C53C-46FF-8433-72D9E6D94AAD.jpeg"
 - template: 2-column-media-element
   block: media-2
   image_1:
