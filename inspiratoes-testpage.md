@@ -22,6 +22,13 @@ page_sections:
   media:
     image: "/uploads/2018/12/09/A16E1F2F-0AF1-4B05-B3FA-38AE5C379942.jpeg"
     alt_text: Etstesdgsdgsdgdsfg
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: Neue Headline! Der Wahnsinn!
+  content: 'Oh mein Gott, wie das hier abgeht! '
+- template: detail-content
+  block: text-1
 - template: 2-column-media-element
   block: media-2
   image_1:
