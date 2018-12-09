@@ -39,6 +39,29 @@ page_sections:
     image: "/uploads/2018/12/09/82CCD53B-60BB-47EC-8FC4-2CAC85A31D81.jpeg"
   image_2:
     image: "/uploads/2018/12/09/F73AB51F-BC92-4CFD-BB7E-80F87944054C.jpeg"
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: Skill one
+    content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+      eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+      At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+      no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit
+      amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
+      labore et dolore magna aliquyam erat, sed diam voluptua.
+  col_2:
+    headline: Skill two
+    content: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+      eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+      At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+      no sea takimata sanctus est Lorem ipsum dolor sit amet. '
+  col_3:
+    content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+      eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+      At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+      no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit
+      amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
+      labore et dolore magna aliquyam erat.
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/12/09/EBFD7AF9-A20D-4989-8397-1A612E033F67.png"
