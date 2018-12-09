@@ -31,6 +31,8 @@ page_sections:
     image: "/uploads/2018/12/09/61575252-C53C-46FF-8433-72D9E6D94AAD.jpeg"
 - template: detail-content
   block: text-1
+  headline: 'This is it! I know it! '
+  content: "<p>Content is king. Always. </p>"
 - template: 2-column-media-element
   block: media-2
   image_1:
