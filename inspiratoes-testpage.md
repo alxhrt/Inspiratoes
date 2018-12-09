@@ -3,6 +3,14 @@ title: Inspiratoes Testpage
 layout: blocks
 date: 2018-12-09 15:23:40 +0000
 page_sections:
+- template: navigation-header-w-button
+  block: header-2
+  navigation:
+  - {}
+  - {}
+  cta:
+    url: http://fb.com/alxhrt
+    button_text: Contact me
 - template: simple-header
   block: header-3
   logo: "/uploads/2018/12/09/thumb_512_thumb_512_drone-photo.png"
@@ -64,12 +72,6 @@ page_sections:
     image: "/uploads/2018/12/09/82CCD53B-60BB-47EC-8FC4-2CAC85A31D81.jpeg"
   image_2:
     image: "/uploads/2018/12/09/F73AB51F-BC92-4CFD-BB7E-80F87944054C.jpeg"
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/12/09/EBFD7AF9-A20D-4989-8397-1A612E033F67.png"
-  caption: 'Caption Time! '
-- template: signup-bar
-  block: cta-bar
 - template: simple-footer
   block: footer-1
   content: Das hier ist der Footer.<br>Zweite Zeile<br><br>Impressum
