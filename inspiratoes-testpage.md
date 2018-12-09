@@ -32,7 +32,7 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: 'This is it! I know it! '
-  content: "<p>Content is king. Always. </p>"
+  content: "<p>Content is <strong>king</strong>. Always. </p>"
 - template: 2-column-media-element
   block: media-2
   image_1:
