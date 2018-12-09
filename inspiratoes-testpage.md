@@ -14,6 +14,7 @@ page_sections:
   cta:
     button_text: Buy me!
     url: Fb.com/alxhrt
+    enabled: true
 - template: detail-content
   block: text-1
   headline: ''
