@@ -26,8 +26,14 @@ page_sections:
   block: cta-bar
 - template: 2-column-media-element
   block: media-2
+  image_1:
+    image: "/uploads/2018/12/09/thumb_512_thumb_512_thumb_512_drone-photo.png"
+  image_2:
+    image: "/uploads/2018/12/09/thumb_512_product-shot-1.png"
 - template: full-width-media-element
   block: media-1
+  image: "/uploads/2018/12/09/thumb_512_thumb_512_thumb_512_drone-photo-1.png"
+  caption: 'Caption Time! '
 - template: simple-footer
   block: footer-1
   content: Das hier ist der Footer.<br>Zweite Zeile<br><br>Impressum
