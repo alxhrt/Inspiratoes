@@ -19,6 +19,7 @@ page_sections:
   block: cta-bar
 - template: simple-footer
   block: footer-1
+  content: 'Das hier ist der Footer. '
 published: false
 
 ---
