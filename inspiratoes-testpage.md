@@ -29,7 +29,9 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: Hallo Welt! Wie toll ist das denn?!
-  content: 'Ich gehe fischen. Ich fische Komplimente! '
+  content: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+    eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+    At vero eos et accusam et justo duo dolores et ea rebum. '
   media:
     image: "/uploads/2018/12/09/A16E1F2F-0AF1-4B05-B3FA-38AE5C379942.jpeg"
     alt_text: Etstesdgsdgsdgdsfg
