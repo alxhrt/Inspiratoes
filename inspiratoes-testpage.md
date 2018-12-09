@@ -3,6 +3,8 @@ title: Inspiratoes Testpage
 layout: blocks
 date: 2018-12-09 15:23:40 +0000
 page_sections:
+- template: navigation-header
+  block: header-1
 - template: simple-header
   block: header-3
 - template: content-feature
