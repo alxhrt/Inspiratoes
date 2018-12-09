@@ -22,8 +22,6 @@ page_sections:
   media:
     image: "/uploads/2018/12/09/thumb_512_drone-photo.png"
     alt_text: Etstesdgsdgsdgdsfg
-- template: signup-bar
-  block: cta-bar
 - template: 2-column-media-element
   block: media-2
   image_1:
@@ -34,6 +32,8 @@ page_sections:
   block: media-1
   image: "/uploads/2018/12/09/thumb_512_thumb_512_thumb_512_drone-photo-1.png"
   caption: 'Caption Time! '
+- template: signup-bar
+  block: cta-bar
 - template: simple-footer
   block: footer-1
   content: Das hier ist der Footer.<br>Zweite Zeile<br><br>Impressum
