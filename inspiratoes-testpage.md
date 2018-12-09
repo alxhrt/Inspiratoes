@@ -25,9 +25,9 @@ page_sections:
 - template: 2-column-media-element
   block: media-2
   image_1:
-    image: "/uploads/2018/12/09/thumb_512_thumb_512_thumb_512_drone-photo.png"
+    image: "/uploads/2018/12/09/82CCD53B-60BB-47EC-8FC4-2CAC85A31D81.jpeg"
   image_2:
-    image: "/uploads/2018/12/09/thumb_512_product-shot-1.png"
+    image: "/uploads/2018/12/09/F73AB51F-BC92-4CFD-BB7E-80F87944054C.jpeg"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/12/09/thumb_512_thumb_512_thumb_512_drone-photo-1.png"
