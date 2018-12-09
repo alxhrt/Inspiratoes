@@ -12,15 +12,6 @@ page_sections:
     url: http://fb.com/alxhrt
     button_text: Contact me
   logo: "/uploads/2018/12/09/Hintergrund@2x.png"
-- template: hero-banner-w-image
-  block: hero-2
-  background_image: "/uploads/2018/12/09/86A1BA18-4BD1-4229-9227-A6D66908E6D6.jpeg"
-  headline: Header Headline
-  content: 'This is quality content! '
-  cta:
-    button_text: Buy me!
-    url: Fb.com/alxhrt
-    enabled: true
 - template: detail-content
   block: text-1
   headline: ''
@@ -77,6 +68,15 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Das hier ist der Footer.<br>Zweite Zeile<br><br>Impressum
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: "/uploads/2018/12/09/86A1BA18-4BD1-4229-9227-A6D66908E6D6.jpeg"
+  headline: Header Headline
+  content: 'This is quality content! '
+  cta:
+    button_text: Buy me!
+    url: Fb.com/alxhrt
+    enabled: true
 published: false
 
 ---
