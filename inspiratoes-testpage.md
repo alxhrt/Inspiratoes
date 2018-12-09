@@ -6,6 +6,14 @@ page_sections:
 - template: simple-header
   block: header-3
   logo: "/uploads/2018/12/09/thumb_512_thumb_512_drone-photo.png"
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: "/uploads/2018/12/09/7FC9FBC4-36F5-4CC2-89C3-6A231153164B.jpeg"
+  headline: Header Headline
+  content: 'This is quality content! '
+  cta:
+    button_text: Buy me!
+    url: Fb.com/alxhrt
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -16,6 +24,10 @@ page_sections:
     alt_text: Etstesdgsdgsdgdsfg
 - template: signup-bar
   block: cta-bar
+- template: 2-column-media-element
+  block: media-2
+- template: full-width-media-element
+  block: media-1
 - template: simple-footer
   block: footer-1
   content: Das hier ist der Footer.<br>Zweite Zeile<br><br>Impressum
