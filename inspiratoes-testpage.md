@@ -27,6 +27,8 @@ page_sections:
   media_alignment: Left
   headline: Neue Headline! Der Wahnsinn!
   content: 'Oh mein Gott, wie das hier abgeht! '
+  media:
+    image: "/uploads/2018/12/09/61575252-C53C-46FF-8433-72D9E6D94AAD.jpeg"
 - template: detail-content
   block: text-1
 - template: 2-column-media-element
