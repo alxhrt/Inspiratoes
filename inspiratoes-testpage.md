@@ -5,7 +5,7 @@ date: 2018-12-09 15:23:40 +0000
 page_sections:
 - template: simple-header
   block: header-3
-  logo: "/uploads/2018/12/09/thumb_512_theme.png"
+  logo: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
