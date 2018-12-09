@@ -62,6 +62,7 @@ page_sections:
       no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit
       amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
       labore et dolore magna aliquyam erat.
+    headline: Skill three
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/12/09/EBFD7AF9-A20D-4989-8397-1A612E033F67.png"
