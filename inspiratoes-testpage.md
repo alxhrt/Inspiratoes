@@ -16,8 +16,8 @@ page_sections:
     url: Fb.com/alxhrt
 - template: detail-content
   block: text-1
-  headline: 'This is it! I know it! '
-  content: "<h1>Content is <strong>king</strong>. Always.</h1>"
+  headline: ''
+  content: "<h2>Content is king. Always.</h2>"
 - template: content-feature
   block: feature-1
   media_alignment: Right
