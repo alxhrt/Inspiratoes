@@ -77,6 +77,5 @@ page_sections:
     button_text: Buy me!
     url: Fb.com/alxhrt
     enabled: true
-published: false
 
 ---
